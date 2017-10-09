@@ -1,3 +1,13 @@
+#IntelliJ:
+.idea/
+*.iml
+*.iws
+
+#Standard Java:
 /target/
 /log/
 /.settings/
+/out/
+
+#Database
+db.dat*
